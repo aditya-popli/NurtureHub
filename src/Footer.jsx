@@ -29,7 +29,7 @@ const Footer = () => {
               className="h-16 w-auto mb-4 rounded-lg shadow-md"
             />
             <p className="text-gray-600 text-sm text-center md:text-left">
-              Your trusted companion in the beautiful journey of parenthood.
+              Dr. Srinivas Reddy Bandaru - Mentor
             </p>
           </div>
 
